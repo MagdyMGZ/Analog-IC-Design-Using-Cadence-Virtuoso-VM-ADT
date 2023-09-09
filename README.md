@@ -19,3 +19,17 @@
   GM/id Methodology & ADT
 
 . 6 Assignments + 1 Final Project Using Cadence Virtuoso & VM Ware & ADT
+
+Final Project Lab 7 :
+Design of 5 - Transistors Operational Transconductance Amplifier Using:
+- gm/ ID design methodology
+- Cadence Virtuoso
+- Analog Designer Toolbox (ADT)
+
+Design was required to achieve the following specs:
+Open loop DC voltage gain: >= 34dB 
+CMRR @ DC: >= 74dB 
+Phase margin: >= 70
+OTA current consumption: <= 20uA 
+CM input range: 0.8 - 1.5 V 
+GBW: >= 5MHz
