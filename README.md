@@ -3,7 +3,9 @@
 ELC2060S23P_9210899:
 
   . PDK of a UMC 0.13µm technology: MOSFETs Characteristics N_12_HSL130E
+  
   . Current Mirror Using gm/ID Methodology
+  
   . Power Amplifier Using Tuning Methodology
 
 Analog Function Generator:
