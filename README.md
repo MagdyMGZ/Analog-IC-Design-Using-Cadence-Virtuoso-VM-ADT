@@ -1,11 +1,13 @@
 # Analog IC Designs
 
-ELC2060S23P_9210899: 
+ELC2060S23P_9210899:
+
   . PDK of a UMC 0.13µm technology: MOSFETs Characteristics N_12_HSL130E
   . Current Mirror Using gm/ID Methodology
   . Power Amplifier Using Tuning Methodology
 
-Analog Function Generator
+Analog Function Generator:
+
   simulate a simple function generator using the astable multi-vibrator to generate 
   the square wave. The function generator should be able to generate square, triangular, 
   and sine waveforms with a frequency range from 10kHz to 1MHz.
